@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a7med3id10" alt="a7med3id10" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aeid2982001" target="blank"><img src="https://img.shields.io/twitter/follow/aeid2982001?logo=twitter&style=for-the-badge" alt="aeid2982001" /></a> </p>
+
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
