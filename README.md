@@ -1,30 +1,59 @@
 <h1 align="center">Hi 👋, I'm Ahmed Eid</h1>
-<h3 align="center">A passionate Digital Hardware Engineer from Egypt 🇪🇬</h3>
+<h3 align="center">Digital IC Design & Verification Engineer from Egypt 🇪🇬
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a7med3id10&label=Profile%20views&color=0e75b6&style=flat" alt="a7med3id10" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a7med3id10" alt="a7med3id10" /></a> </p>
-
-
-
-- 🌱 I’m currently learning **Artificial Intelligence**
-
-- 📫 How to reach me **ahmedeid2982001@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-6PM7um5ohjixVFIJuywcCEQmv4C0dWI/view?usp=sharing](https://drive.google.com/file/d/1-6PM7um5ohjixVFIJuywcCEQmv4C0dWI/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://linkedin.com/in/ahmedeid9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedeid9" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=a7med3id10&label=Profile%20views&color=0e75b6&style=flat" alt="a7med3id10" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a7med3id10&show_icons=true&locale=en&layout=compact" alt="a7med3id10" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a7med3id10&show_icons=true&locale=en" alt="a7med3id10" /></p>
+### 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a7med3id10&" alt="a7med3id10" /></p>
+- 📜 Pursuing my **M.Sc.** in Computer and Systems Engineering at **Ain Shams University**.
+- 🎓 Graduated from **Cairo University** (Electronics & Electrical Communications Engineering), Class of 2024.
+- 🏗️ Interested in **UVM, AXI Protocols, FPGA Design**, and Computer Architecture.
+- 🤖 Passionate about the intersection of **Hardware and AI**.
 
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <!-- Hardware Specific -->
+  <img src="https://img.shields.io/badge/SystemVerilog-blue?style=for-the-badge&logo=verilog&logoColor=white" alt="SystemVerilog" />
+  <img src="https://img.shields.io/badge/UVM-orange?style=for-the-badge" alt="UVM" />
+  <img src="https://img.shields.io/badge/VHDL-grey?style=for-the-badge" alt="VHDL" />
+  <img src="https://img.shields.io/badge/FPGA-darkgreen?style=for-the-badge" alt="FPGA" />
+  <br>
+  <!-- Programming/Scripting -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7med3id10&theme=vision-friendly-dark" alt="a7med3id10" />
+</p>
+
+---
+
+### 📫 Connect with me:
+
+<p align="left">
+  <a href="https://linkedin.com/in/ahmedeid9" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ahmedeid9" /></a>
+  <a href="mailto:ahmedeid2982001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+<p align="center">"Building the hardware of tomorrow, one gate at a time."</p>
