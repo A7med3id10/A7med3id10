@@ -1,21 +1,36 @@
 <h1 align="center">Hi 👋, I'm Ahmed Eid</h1>
-<h3 align="center">Digital IC Design & Verification Engineer from Egypt 🇪🇬
-</h3>
+<h3 align="center">Digital IC Design & Verification Engineer from Egypt 🇪🇬</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=a7med3id10&label=Profile%20views&color=0e75b6&style=flat" alt="a7med3id10" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"></a>
 </p>
-
 
 ---
 
 ### 👨‍💻 About Me
 
 - 📜 Pursuing my **M.Sc.** in Computer and Systems Engineering at **Ain Shams University**.
-- 🎓 Graduated from **Cairo University** (Electronics & Electrical Communications Engineering), Class of 2024.
-- 🏗️ Interested in **UVM, AXI Protocols, FPGA Design**, and Computer Architecture.
+- 🎓 Alumnus of **Cairo University** (EECE 2024).
+- 🏗️ Focused on **UVM, AXI Protocols, FPGA Design**, and Advanced Computer Architecture.
 - 🤖 Passionate about the intersection of **Hardware and AI**.
+
+---
+
+### 📊 GitHub Metrics & Activity
+
+
+<p align="center">
+
+  <img src="https://github-readme-stats-iota-gray-39.vercel.app/api?username=a7med3id10&show_icons=true&theme=vision-friendly-dark&count_private=true" height="170" alt="Ahmed's GitHub Stats" />
+  
+  <img src="https://github-readme-stats-iota-gray-39.vercel.app/api/top-langs/?username=a7med3id10&layout=compact&theme=vision-friendly-dark" height="170" alt="Top Languages" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7med3id10&theme=vision-friendly-dark" alt="a7med3id10" />
+</p>
+
 
 ---
 
@@ -34,16 +49,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7med3id10&theme=vision-friendly-dark" alt="a7med3id10" />
 </p>
 
 ---
