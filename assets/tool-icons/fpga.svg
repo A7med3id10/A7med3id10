@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-labelledby="title">
+  <title id="title">FPGA chip icon</title>
+  <rect x="11" y="11" width="26" height="26" rx="4" fill="#101722" stroke="#D4AF37" stroke-width="2"/>
+  <path d="M17 17h5v5h-5zm9 0h5v5h-5zm-9 9h5v5h-5zm9 0h5v5h-5z" fill="#4CA8D8"/>
+  <path d="M16 5v6m8-6v6m8-6v6m-16 26v6m8-6v6m8-6v6M5 16h6m-6 8h6m-6 8h6m26-16h6m-6 8h6m-6 8h6" stroke="#91A0B2" stroke-linecap="round" stroke-width="2"/>
+</svg>
