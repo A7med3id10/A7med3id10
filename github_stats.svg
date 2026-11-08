@@ -135,7 +135,7 @@
             stroke="#263342" stroke-width="1"/>
       <rect x="600" y="282" width="3" height="50" rx="1.5" fill="#E34B4B"/>
       <text x="617" y="300" class="metric-label">Followers</text>
-      <text x="617" y="325" class="metric-value">24</text>
+      <text x="617" y="325" class="metric-value">23</text>
       <circle cx="850" cy="291" r="2" fill="#E34B4B" opacity=".8"/>
     </g>
     <g class="metric-tile" style="animation-delay:1.05s">
@@ -179,5 +179,5 @@
       <circle cx="1134" cy="373" r="2" fill="#D4AF37" opacity=".8"/>
     </g>
   <text x="34" y="448" class="panel-note">SOURCE: GITHUB GRAPHQL API · PUBLIC, NON-FORK REPOSITORIES</text>
-  <text x="1166" y="448" class="panel-note" text-anchor="end">2026-11-07 UTC</text>
+  <text x="1166" y="448" class="panel-note" text-anchor="end">2026-11-08 UTC</text>
 </svg>
