@@ -79,7 +79,7 @@
             stroke="#263342" stroke-width="1"/>
       <rect x="884" y="118" width="3" height="50" rx="1.5" fill="#D4AF37"/>
       <text x="901" y="136" class="metric-label">Current streak</text>
-      <text x="901" y="161" class="metric-value">2 days</text>
+      <text x="901" y="161" class="metric-value">0 days</text>
       <circle cx="1134" cy="127" r="2" fill="#D4AF37" opacity=".8"/>
     </g>
     <g class="metric-tile" style="animation-delay:0.00s">
@@ -179,5 +179,5 @@
       <circle cx="1134" cy="373" r="2" fill="#D4AF37" opacity=".8"/>
     </g>
   <text x="34" y="448" class="panel-note">SOURCE: GITHUB GRAPHQL API · PUBLIC, NON-FORK REPOSITORIES</text>
-  <text x="1166" y="448" class="panel-note" text-anchor="end">2026-11-09 UTC</text>
+  <text x="1166" y="448" class="panel-note" text-anchor="end">2026-11-10 UTC</text>
 </svg>
